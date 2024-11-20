@@ -1,3 +1,4 @@
+# 나스닥 종합
 import yfinance as yf
 import pandas as pd
 import os

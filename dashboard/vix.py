@@ -1,3 +1,4 @@
+# VIX (변동성 지수)
 import yfinance as yf
 import pandas as pd
 import os

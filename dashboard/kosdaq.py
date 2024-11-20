@@ -1,3 +1,4 @@
+# 코스닥
 import pandas as pd
 import os
 
