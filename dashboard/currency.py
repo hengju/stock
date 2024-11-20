@@ -1,3 +1,4 @@
+# 환율(달러대원화)
 import pandas as pd
 import os
 
